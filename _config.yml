@@ -1,0 +1,50 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Surprised Cat
+brief-intro: Personal Blog and NoteBook
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://121.42.198.32" # the base hostname & protocol for your site
+
+permalink: /:year/:month/:day/:title/
+
+# other links
+github_username:  SurprisedCat
+email: 840025951@163.com
+
+description_footer: 在不断疑惑中前行！
+
+# comments
+# two ways to comment, only choose one, and use your own short name
+# 两种评论插件，选一个就好了，使用自己的 short_name
+duoshuo_shortname: #SurprisedCat
+disqus_shortname: #SurprisedCat
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# port
+# port: 1234
+
+# url
+category_dir: category/
+tag_dir: tag/
+
+# excerpt
+excerpt_separator: "\n\n\n\n"
+
+# paginate
+plugins: [jekyll-paginate]
+paginate: 6
+
+# mathjax 是否启用，不启用为空
+mathjax: 1
