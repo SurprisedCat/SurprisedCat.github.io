@@ -1,3 +1,11 @@
+# Surprised Cat 
+# About my blog and notes
+
+* 2017-11-18 Choose an awesome Jekyll Theme and rewrite some codes to adjust my conditions. The top head shoud be &lt h2 &gt in the _posts. 
+
+
+
+
 # About this Cool Concise Jekyll Blog Theme 🤘🤘🤘
 
 [![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)

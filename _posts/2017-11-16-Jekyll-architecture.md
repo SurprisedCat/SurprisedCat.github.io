@@ -9,7 +9,7 @@ author: SurprisedCat
 * content 
 {:toc}
 
-# 1. Jekyll目录结构分析
+## 1. Jekyll目录结构分析
 
 Jekyll（发音/'dʒiːk əl/）是一个静态站点生成器，它会根据网页源码生成静态文件（纯HTML+CSS+JS）。它提供了模板、变量、插件等功能，所以实际上可以用来编写整个网站。Jekyll是基于Ruby语言开发的，因此安装Jekyll需要Ruby以及相关的组件，具体安装可以参考[Jekyll的中文网站安装指南](http://jekyllcn.com/docs/installation/)。使用Jekyll可以让我们尽量少的接触网站相关的知识的同时，搭建出漂亮的个人博客网站。本文采用自顶向下的方式来介绍Jekyll如何实现建站。
 
@@ -124,7 +124,7 @@ default.html
 </html>
 ```
 
-## 1.1Theme的包含结构
+### 1.1Theme的包含结构
 
 在这个Theme中，包含结构大致如下：
 
@@ -136,6 +136,6 @@ default.html
 
 此外，还有一些js，css，sass文件。Jekyll的大体结构就是这样了。如果想了解每一个文件夹的具体内容可以参考Jekyll的中文文档:[将纯文本转换为静态博客网站](http://jekyllcn.com/docs/home/)。
 
-# 2. 参考文献
+## 2. 参考文献
 
 [1] [http://jekyllcn.com/docs/structure/](http://jekyllcn.com/docs/structure/)
