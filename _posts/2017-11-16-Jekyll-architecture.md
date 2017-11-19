@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll 结构分析"
 categories: Jekyll
-tags:  jekyll framework
+tags:  Jekyll Framework
 author: SurprisedCat
 ---
 

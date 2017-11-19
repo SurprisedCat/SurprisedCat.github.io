@@ -2,7 +2,7 @@
 layout: post
 title:  "转载：Jekyll with Liquid（China祥）"
 categories: Jekyll
-tags:  jekyll
+tags:  Jekyll
 author: China祥
 ---
 
