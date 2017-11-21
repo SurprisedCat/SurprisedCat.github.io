@@ -1,0 +1,1 @@
+http://shumeipai.nxez.com/2014/11/17/raspberry-pi-taking-screenshots-with-scrot.html

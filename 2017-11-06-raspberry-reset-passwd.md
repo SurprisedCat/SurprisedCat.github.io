@@ -1,0 +1,1 @@
+http://shumeipai.nxez.com/2017/02/17/how-to-reset-a-forgotten-raspberry-pi-password.html#more-2880
