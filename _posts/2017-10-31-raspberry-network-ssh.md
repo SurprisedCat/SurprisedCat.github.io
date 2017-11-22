@@ -17,6 +17,8 @@ Raspberry Pi 3自带openssh服务器，可以直接通过ssh连接操作树莓�
 
 >注意：千万不要用windows的记事本新建这个文件！
 
+excerpt_separator_here
+
 ## 获取Raspberry的IP ##
 
 当ssh服务开启之后，我们还需要树莓派的IP才能登陆树莓派。
