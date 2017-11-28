@@ -36,7 +36,7 @@ auto eth0
 iface eth0 inet dhcp
 ```
 
-excerpt_separator_here
+<!--excerpt_separator_here-->
 修改完成之后，可以采用重启网络的方式获取新的IP。
 
 ## Network-Manager ##

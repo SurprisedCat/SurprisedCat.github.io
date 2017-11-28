@@ -40,7 +40,7 @@ category_dir: category/
 tag_dir: tag/
 
 # excerpt
-excerpt_separator: "excerpt_separator_here"
+excerpt_separator: "<!--excerpt_separator_here-->"
 
 # paginate
 plugins: [jekyll-paginate]

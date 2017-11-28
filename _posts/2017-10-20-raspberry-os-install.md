@@ -23,7 +23,7 @@ Raspbian仍处于积极开发状态，并把重点放在提升尽可能多Debian
 
 树莓派在一般情况下可以采用Raspian系统。其他可用操作系统可以参考一下网址：
 [http://wiki.nxez.com/rpi:list-of-oses](http://wiki.nxez.com/rpi:list-of-oses)
-excerpt_separator_here
+<!--excerpt_separator_here-->
 
 ## 必备软件 ##
 

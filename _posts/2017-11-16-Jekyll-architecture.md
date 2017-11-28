@@ -17,7 +17,7 @@ Jekyll 的核心其实是一个文本转换引擎。它的概念其实就是：�
 
 一个基本的 Jekyll 网站的目录结构一般是像这样的：
 
-excerpt_separator_here
+<!--excerpt_separator_here-->
 
 ```shell
 .

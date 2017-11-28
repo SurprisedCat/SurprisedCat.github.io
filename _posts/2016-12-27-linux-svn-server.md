@@ -11,7 +11,7 @@ author: SurprisedCat
 
 一般我们使用git进行代码的版本管理，但是git自身只能识别文本文件。我们常用的office系列是文本与二进制的组合，git diff等操作无法正常使用。况且office软件自带diff的功能，我仅仅想做一个版本管理与云同步，在不想用SharePoint的倾向下，我选择在云主机上搭建一个基于Debian Linux的SVN服务器。
 
-excerpt_separator_here
+<!--excerpt_separator_here-->
 
 ## Linux下的svn服务器 ##
 

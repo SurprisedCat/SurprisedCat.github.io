@@ -21,6 +21,6 @@ GPU的通常计算能力达到1Gpixel/s, 1.5Gtexel/s 或 24 GFLOPs，并且提�
 相比较来看，树莓派的图形性能基本上与初代Xbox等同。树莓派的总体性能也许和300MHz的奔腾2接近，不过图形能力是远远超越那个时代的。
 
 
-excerpt_separator_here
+<!--excerpt_separator_here-->
 
 ## 参考文献 ##

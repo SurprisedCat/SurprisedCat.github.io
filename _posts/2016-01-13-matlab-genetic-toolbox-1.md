@@ -13,7 +13,7 @@ author: SurprisedCat
 
 crtbase：创建一个包含基因基因座信息的向量。
 
-excerpt_separator_here
+<!--excerpt_separator_here-->
 
 ## crtbase ##
 

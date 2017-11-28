@@ -16,7 +16,7 @@ author: SurprisedCat
 
 一个进程调用fork（）函数后，系统先给新的进程分配资源，例如存储数据和代码的空间。然后把原来的进程的所有值都复制到新的新进程中，只有少数值与原来的进程的值不同。相当于克隆了一个自己。
 
-excerpt_separator_here
+<!--excerpt_separator_here-->
 
 ```c++
 /* 

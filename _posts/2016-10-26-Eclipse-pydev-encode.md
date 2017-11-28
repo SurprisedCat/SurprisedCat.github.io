@@ -19,7 +19,7 @@ window->preferences->workspace->text file encoding->UTF-8
 
 打开eclipse安装目录->eclipse.ini，末行加上”-Dfile.encoding=UTF-8”
 
-excerpt_separator_here
+<!--excerpt_separator_here-->
 
 ## 文件编码 ##
 

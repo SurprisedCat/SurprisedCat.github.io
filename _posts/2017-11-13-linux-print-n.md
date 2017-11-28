@@ -24,7 +24,7 @@ author: George
     accept(...);
 ```
 
-excerpt_separator_here
+<!--excerpt_separator_here-->
 
 程序死活打不出"abc"来.用gdb查看,程序又确实是运行到了accept这里。
 

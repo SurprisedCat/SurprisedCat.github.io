@@ -23,7 +23,7 @@ ln source dist           # 建立硬连接
 ```
 
 关于 Linux 下面的软链和硬链，可以看看这篇文章：[理解 Linux 的硬链接与软链接](https://www.ibm.com/developerworks/cn/linux/l-cn-hardandsymb-links/).
-excerpt_separator_here
+<!--excerpt_separator_here-->
 
 ## Windows 下面的链接 ##
 
