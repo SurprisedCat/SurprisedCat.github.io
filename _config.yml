@@ -9,7 +9,7 @@
 title: Surprised Cat
 brief-intro: Personal Blog and NoteBook
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://121.42.198.32" # the base hostname & protocol for your site
+url: "https://surprisedcat.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
